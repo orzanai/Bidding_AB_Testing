@@ -17,8 +17,6 @@ These data sets are located on separate sheets of the ab_testing.xlsx Excel file
 - Shapiro-Wilk test for normality assumption
 - Levene test for homogeneity of variances assumption
 - Parametric test
-- Wilson Lower Bound Scoring
-
 
 
 ## Results
